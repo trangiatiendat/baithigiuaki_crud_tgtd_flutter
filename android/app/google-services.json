@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459471336521",
+    "project_id": "giuaki-db-dc848",
+    "storage_bucket": "giuaki-db-dc848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459471336521:android:accb4308cf503e5f607b98",
+        "android_client_info": {
+          "package_name": "com.example.baithigiuaki_tgtd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUmwjk2iwEN4ak1OLWoxj-OfmoLHoJcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
